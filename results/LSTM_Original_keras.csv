@@ -1,0 +1,2 @@
+model,accuracy,fdia_recall,fault_recall,inference_time_ms
+LSTM_Original,0.9891975308641975,0.9878472222222222,0.990414710485133,141.24491593414442
