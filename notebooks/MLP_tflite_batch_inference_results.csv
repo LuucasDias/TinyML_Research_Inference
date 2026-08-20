@@ -1,0 +1,9 @@
+model,batch_inference_time_ms_per_sample
+MLP_Original_baseline,0.01648765431962325
+MLP_Original_quant,0.015244469134742583
+MLP_Node_baseline,0.014767448557732404
+MLP_Node_quant,0.011980279833614948
+MLP_Weight_baseline,0.014992576119309837
+MLP_Weight_quant,0.013489160493184878
+MLP_WeightNode_baseline,0.01711059259174108
+MLP_WeightNode_quant,0.012820115238198159
