@@ -1,0 +1,8 @@
+{
+    "criterion": "entropy",
+    "max_depth": 13,
+    "min_samples_split": 7,
+    "min_samples_leaf": 2,
+    "ccp_alpha": 0.0,
+    "random_state": 42
+}
